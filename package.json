@@ -8,8 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@apollo/client": "^3.3.7",
+    "@chakra-ui/react": "^1.1.6",
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
+    "@nhost/react-apollo": "^1.0.7",
+    "@nhost/react-auth": "^1.0.5",
+    "framer-motion": "^3.2.2-rc.1",
+    "graphql": "^15.4.0",
     "next": "10.0.5",
+    "nhost-js-sdk": "^2.3.4",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-icons": "^4.1.0"
   }
 }
